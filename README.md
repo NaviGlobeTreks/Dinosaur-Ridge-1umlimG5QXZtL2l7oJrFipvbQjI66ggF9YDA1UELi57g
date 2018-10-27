@@ -4,8 +4,10 @@
             "img": {
                 "cap1": "Looking at vegitation, green being more vegitation and red being less, you can see the boundary between the Morrison Fm and the Dakota Fm.", 
                 "cap2": "Open a QR code reader with your phone, scan, put it into Cardboard mode and view in a VR headset. ", 
+                "cap3": "Artist rendition of the depositional environment of the Morrison Formation. ", 
                 "img1": "https://drive.google.com/uc?export=view&id=1ypPxuntccZonE1CXMcj2ijg2T87x4NK2 ", 
-                "img2": "https://drive.google.com/uc?export=view&id=1-8dQlVr8UMSTIwB_hvYLzdBefNNCqKmR "
+                "img2": "https://drive.google.com/uc?export=view&id=1-8dQlVr8UMSTIwB_hvYLzdBefNNCqKmR ", 
+                "img3": "https://drive.google.com/uc?export=view&id=13k7OaasJxPu1OlPjUY0DxoApA9FheKP9 "
             }, 
             "main": "https://youtu.be/CLDAWzpyf3s", 
             "pagenumber": "1", 
