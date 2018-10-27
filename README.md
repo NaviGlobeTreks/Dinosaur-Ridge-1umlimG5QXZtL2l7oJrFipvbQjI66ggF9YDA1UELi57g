@@ -41,6 +41,17 @@
             "title": "MOrrison fm", 
             "youtube": ""
         }, 
+        "4": {
+            "img": {
+                "cap1": "", 
+                "img1": "https://upload.wikimedia.org/wikipedia/commons/8/84/Dinosaur_Ridge_2017-09-30_1587.jpg"
+            }, 
+            "main": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1540672069380!6m8!1m7!1sCAoSLEFGMVFpcE5xcHJUZHpKZzBBODhaLTlNZzRGUVdZOWNoTzlkRmRKcE9rSGdf!2m2!1d39.6776733!2d-105.1941757!3f114.01!4f0!5f0.7820865974627469\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>", 
+            "pagenumber": "4", 
+            "text": "u iuh ihu ", 
+            "title": "Footprints", 
+            "youtube": ""
+        }, 
         "auther": "Becky Shorey", 
         "description": "Geologic field trip to Dinosaur Ridge in Morrison, CO. A unique geoloic history including dinosaur trackways, seaways, ripple marks and uplift.", 
         "grade": "9-12", 
