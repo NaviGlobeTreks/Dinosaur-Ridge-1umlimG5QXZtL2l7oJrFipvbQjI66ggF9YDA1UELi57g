@@ -24,7 +24,7 @@
                 "img1": "https://lh3.googleusercontent.com/reExnhjDqLg3VvGqUNWvU6sMUEy9N7mV4g5_aS-TiaM1BCV0kSVb54-Aawq_popvoQesbBXRHncrW-Pf_cO75-vi3jhTxdj__-F59Zh_DxU0cwJi87TGyT2ddP2pQCUD9de1eB6wUOk4oHmQPqHyPKX8v1g8zmWP_PW3x06niUBHvaVtsU6bBF7kiztn1HxaA7TbBcfdyvQyCAOjlaMb0Tq4s1FerEardkM35fNeObf-jWWTcNOOuPCRgcph9tXuiCRVCzg1VCWdOV_3QIcF5powD9CDLz8dnsTT71_fDiVMVPVMoX5MGfoxot9ikD0xRNQbSgMjJXeaPSnPrO0ViIz28viliLcfm1J0E1JQZSwjmqaITpnkq56qBflWxzIqDvLi8PrQPWeu3XLCK6Xgtoy9wb5ZdtvFJgjDRNywaJ8iQ7IdD-4oSBsn6QLyAsC5scG5oVDwscmKq9aiPFGDnbWRplVa-Y_-z38dS0qHcVaZSQncXbR7ibB5QJuUnVZtONrrVlJbMbInn_BN05bYH5zceIi-gLwHzx0zbB_V7i4spBnsoFG1ceKNffmJQVrmGxND5UXvK7MaDI_83UTlZZo7bpt4XixfyFbwGCQ7VcSywZfKK0uRRVUkuBSWcKwcvaR3uBpa8vxYbsc2qrqy5lwV=w1618-h1078-no", 
                 "img2": "https://drive.google.com/open?id=1TovsTnTFpbW45LpLipz-oCVr2rbvPy4P&usp=sharing"
             }, 
-            "main": "https://youtu.be/Eh9G2um7ZfA", 
+            "main": "https://drive.google.com/file/d/1-mLnTvaNm05MBsFyr6yMgsD166m0e9jb/view?usp=sharing", 
             "pagenumber": "2", 
             "text": "The map will show you the locations of the stops along the field trip. ", 
             "title": "Field trip map", 
